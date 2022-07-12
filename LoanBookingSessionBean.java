@@ -5,6 +5,7 @@ import java.io.collection;
 import java.io.scanner;
 import java.io.inputprinter;
 import java.io.outputprinter;
+hiii
 public class SpiralPatternExample2
 {  
 //function to print the spiral pattern  first public
